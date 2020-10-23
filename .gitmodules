@@ -1,0 +1,3 @@
+[submodule "opentelemetry-js"]
+	path = opentelemetry-js
+	url = git@github.com:danwild/opentelemetry-js.git
